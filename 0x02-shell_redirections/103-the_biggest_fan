@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 2 | rev | sort -r -k 1,1 | rev | cut -d " " -f1
+cut -d "-" -f1 | sort -nr

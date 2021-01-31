@@ -1,2 +1,14 @@
 pppa006.compuserve.com  -   807256800   GET /images/launch-logo.gif 200 1713
 vcc7.langara.bc.ca      -   807256804   GET /shuttle/missions/missions.html 200 8677
+127.165.149.122         -
+114.178.169.165
+180.128.68.110
+180.128.68.110
+114.178.169.165
+127.165.149.122
+127.165.149.122
+180.128.68.110
+180.128.68.110
+127.165.149.122
+vcc7.langara.bc.ca
+pppa006.compuserve.com
