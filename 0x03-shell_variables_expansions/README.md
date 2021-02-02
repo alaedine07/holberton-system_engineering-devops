@@ -5,5 +5,5 @@ they are called "global" or "environment" variables . some users will want to mo
 happen on a file /home/someuser/.bashrc those variables created there called "local" variables because they only affects a user
 session not the hole system 
 
-* in bash exists some special characters one character is always used "$?" it refers to the exit status the recently executed 
+* in bash exists some special characters one character is always used "$?" it refers to the exit status of the recently executed 
 command . 
