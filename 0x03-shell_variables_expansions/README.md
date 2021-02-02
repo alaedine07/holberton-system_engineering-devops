@@ -1,1 +1,1 @@
-TODO: explain new things learned
+# In this project I learned few new things about linux
