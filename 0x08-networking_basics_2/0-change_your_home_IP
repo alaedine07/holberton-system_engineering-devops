@@ -1,4 +1,4 @@
 #!/bin/bash
 #change localhost and facebook IP
 sudo sed '1 s/^.*$/127.0.0.2         localhost/' -i /etc/hosts
-sudo echo "8.8.8.8   facebook.com" >> /etc/hosts
+echo "8.8.8.8 facebook.com" | sudo tee -a /etc/hosts
