@@ -1,4 +1,3 @@
 #!/bin/bash
 # show attached ip address
 hostname -i
-
